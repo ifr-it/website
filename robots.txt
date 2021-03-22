@@ -1,0 +1,4 @@
+User-agent: Googlebot-Image
+Disallow: /
+User-agent: Googlebot-Image
+Allow: /images/Final-Logo.png
